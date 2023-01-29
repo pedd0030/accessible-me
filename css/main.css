@@ -71,3 +71,17 @@ form button {
 .site-footer {
   padding: 2rem 0;
 }
+
+.skip-links {
+  list-style: none;
+}
+
+.skip-links a {
+  color: black;
+  text-decoration: none;
+}
+
+.skip-links a:visited {
+  color: white;
+  text-decoration: none;
+}
